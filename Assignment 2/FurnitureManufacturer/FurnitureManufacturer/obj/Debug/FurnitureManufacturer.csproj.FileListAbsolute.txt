@@ -1,0 +1,37 @@
+E:\An III\Sem II\PS\Laborator 8\Assignment 2\FurnitureManufacturer\FurnitureManufacturer\bin\Debug\FurnitureManufacturer.exe.config
+E:\An III\Sem II\PS\Laborator 8\Assignment 2\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.Admin.resources
+E:\An III\Sem II\PS\Laborator 8\Assignment 2\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.Login.resources
+E:\An III\Sem II\PS\Laborator 8\Assignment 2\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.Regular.resources
+E:\An III\Sem II\PS\Laborator 8\Assignment 2\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.csproj.GenerateResource.Cache
+E:\An III\Sem II\PS\Laborator 8\Assignment 2\FurnitureManufacturer\FurnitureManufacturer\bin\Debug\FurnitureManufacturer.exe
+E:\An III\Sem II\PS\Laborator 8\Assignment 2\FurnitureManufacturer\FurnitureManufacturer\bin\Debug\FurnitureManufacturer.pdb
+E:\An III\Sem II\PS\Laborator 8\Assignment 2\FurnitureManufacturer\FurnitureManufacturer\bin\Debug\MySql.Data.DLL
+E:\An III\Sem II\PS\Laborator 8\Assignment 2\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.exe
+E:\An III\Sem II\PS\Laborator 8\Assignment 2\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.pdb
+E:\An III\Sem II\PS\Laborator 8\Assignment 2\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.View.ProductToOrder.resources
+E:\An III\Sem II\PS\Laborator 8\Assignment 2\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.View.ReportOrder.resources
+E:\An III\Sem II\PS\Assign 2\FurnitureManufacturer\FurnitureManufacturer\bin\Debug\FurnitureManufacturer.exe.config
+E:\An III\Sem II\PS\Assign 2\FurnitureManufacturer\FurnitureManufacturer\bin\Debug\FurnitureManufacturer.exe
+E:\An III\Sem II\PS\Assign 2\FurnitureManufacturer\FurnitureManufacturer\bin\Debug\FurnitureManufacturer.pdb
+E:\An III\Sem II\PS\Assign 2\FurnitureManufacturer\FurnitureManufacturer\bin\Debug\MySql.Data.DLL
+E:\An III\Sem II\PS\Assign 2\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.Admin.resources
+E:\An III\Sem II\PS\Assign 2\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.Login.resources
+E:\An III\Sem II\PS\Assign 2\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.View.ProductToOrder.resources
+E:\An III\Sem II\PS\Assign 2\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.Regular.resources
+E:\An III\Sem II\PS\Assign 2\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.View.ReportOrder.resources
+E:\An III\Sem II\PS\Assign 2\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.csproj.GenerateResource.Cache
+E:\An III\Sem II\PS\Assign 2\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.exe
+E:\An III\Sem II\PS\Assign 2\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.pdb
+E:\An III\Sem II\PS\Assign 2\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.csprojResolveAssemblyReference.cache
+E:\An III\Sem II\PS\Assign 2 - Final\FurnitureManufacturer\FurnitureManufacturer\bin\Debug\FurnitureManufacturer.exe.config
+E:\An III\Sem II\PS\Assign 2 - Final\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.exe
+E:\An III\Sem II\PS\Assign 2 - Final\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.pdb
+E:\An III\Sem II\PS\Assign 2 - Final\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.Admin.resources
+E:\An III\Sem II\PS\Assign 2 - Final\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.Login.resources
+E:\An III\Sem II\PS\Assign 2 - Final\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.View.ProductToOrder.resources
+E:\An III\Sem II\PS\Assign 2 - Final\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.Regular.resources
+E:\An III\Sem II\PS\Assign 2 - Final\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.View.ReportOrder.resources
+E:\An III\Sem II\PS\Assign 2 - Final\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.csproj.GenerateResource.Cache
+E:\An III\Sem II\PS\Assign 2 - Final\FurnitureManufacturer\FurnitureManufacturer\bin\Debug\FurnitureManufacturer.exe
+E:\An III\Sem II\PS\Assign 2 - Final\FurnitureManufacturer\FurnitureManufacturer\bin\Debug\FurnitureManufacturer.pdb
+E:\An III\Sem II\PS\Assign 2 - Final\FurnitureManufacturer\FurnitureManufacturer\bin\Debug\MySql.Data.DLL

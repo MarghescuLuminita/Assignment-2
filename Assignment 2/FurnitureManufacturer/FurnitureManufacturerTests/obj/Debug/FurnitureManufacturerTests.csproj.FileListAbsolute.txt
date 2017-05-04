@@ -1,0 +1,27 @@
+E:\An III\Sem II\PS\Laborator 8\Assignment 2\FurnitureManufacturer\FurnitureManufacturerTests\bin\Debug\FurnitureManufacturerTests.dll
+E:\An III\Sem II\PS\Laborator 8\Assignment 2\FurnitureManufacturer\FurnitureManufacturerTests\bin\Debug\FurnitureManufacturerTests.pdb
+E:\An III\Sem II\PS\Laborator 8\Assignment 2\FurnitureManufacturer\FurnitureManufacturerTests\bin\Debug\FurnitureManufacturer.exe
+E:\An III\Sem II\PS\Laborator 8\Assignment 2\FurnitureManufacturer\FurnitureManufacturerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\An III\Sem II\PS\Laborator 8\Assignment 2\FurnitureManufacturer\FurnitureManufacturerTests\bin\Debug\MySql.Data.dll
+E:\An III\Sem II\PS\Laborator 8\Assignment 2\FurnitureManufacturer\FurnitureManufacturerTests\bin\Debug\FurnitureManufacturer.pdb
+E:\An III\Sem II\PS\Laborator 8\Assignment 2\FurnitureManufacturer\FurnitureManufacturerTests\obj\Debug\FurnitureManufacturerTests.csprojResolveAssemblyReference.cache
+E:\An III\Sem II\PS\Laborator 8\Assignment 2\FurnitureManufacturer\FurnitureManufacturerTests\obj\Debug\FurnitureManufacturerTests.dll
+E:\An III\Sem II\PS\Laborator 8\Assignment 2\FurnitureManufacturer\FurnitureManufacturerTests\obj\Debug\FurnitureManufacturerTests.pdb
+E:\An III\Sem II\PS\Assign 2\FurnitureManufacturer\FurnitureManufacturerTests\obj\Debug\FurnitureManufacturerTests.csprojResolveAssemblyReference.cache
+E:\An III\Sem II\PS\Assign 2\FurnitureManufacturer\FurnitureManufacturerTests\obj\Debug\FurnitureManufacturerTests.dll
+E:\An III\Sem II\PS\Assign 2\FurnitureManufacturer\FurnitureManufacturerTests\obj\Debug\FurnitureManufacturerTests.pdb
+E:\An III\Sem II\PS\Assign 2\FurnitureManufacturer\FurnitureManufacturerTests\bin\Debug\FurnitureManufacturerTests.dll
+E:\An III\Sem II\PS\Assign 2\FurnitureManufacturer\FurnitureManufacturerTests\bin\Debug\FurnitureManufacturerTests.pdb
+E:\An III\Sem II\PS\Assign 2\FurnitureManufacturer\FurnitureManufacturerTests\bin\Debug\FurnitureManufacturer.exe
+E:\An III\Sem II\PS\Assign 2\FurnitureManufacturer\FurnitureManufacturerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\An III\Sem II\PS\Assign 2\FurnitureManufacturer\FurnitureManufacturerTests\bin\Debug\MySql.Data.dll
+E:\An III\Sem II\PS\Assign 2\FurnitureManufacturer\FurnitureManufacturerTests\bin\Debug\FurnitureManufacturer.pdb
+E:\An III\Sem II\PS\Assign 2 - Final\FurnitureManufacturer\FurnitureManufacturerTests\obj\Debug\FurnitureManufacturerTests.csprojResolveAssemblyReference.cache
+E:\An III\Sem II\PS\Assign 2 - Final\FurnitureManufacturer\FurnitureManufacturerTests\obj\Debug\FurnitureManufacturerTests.dll
+E:\An III\Sem II\PS\Assign 2 - Final\FurnitureManufacturer\FurnitureManufacturerTests\obj\Debug\FurnitureManufacturerTests.pdb
+E:\An III\Sem II\PS\Assign 2 - Final\FurnitureManufacturer\FurnitureManufacturerTests\bin\Debug\FurnitureManufacturerTests.dll
+E:\An III\Sem II\PS\Assign 2 - Final\FurnitureManufacturer\FurnitureManufacturerTests\bin\Debug\FurnitureManufacturerTests.pdb
+E:\An III\Sem II\PS\Assign 2 - Final\FurnitureManufacturer\FurnitureManufacturerTests\bin\Debug\FurnitureManufacturer.exe
+E:\An III\Sem II\PS\Assign 2 - Final\FurnitureManufacturer\FurnitureManufacturerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\An III\Sem II\PS\Assign 2 - Final\FurnitureManufacturer\FurnitureManufacturerTests\bin\Debug\MySql.Data.dll
+E:\An III\Sem II\PS\Assign 2 - Final\FurnitureManufacturer\FurnitureManufacturerTests\bin\Debug\FurnitureManufacturer.pdb

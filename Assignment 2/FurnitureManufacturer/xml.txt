@@ -1,0 +1,1 @@
+<?xml version="1.0"?><reports><idReport>1</idReport><Customer>cris</Customer><addOp>1</addOp><updateOp>0</updateOp><IDComanda>0</IDComanda><date>27.04.2017 00:00:00</date><idReport>3</idReport><Customer>Miiha</Customer><addOp>0</addOp><updateOp>1</updateOp><IDComanda>0</IDComanda><date>03.05.2017 00:00:00</date></reports>
